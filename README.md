@@ -10,6 +10,6 @@ In this work, a U-shaped network based on the convolution coupled Transformer is
 einops==0.6.1 \
 numpy==1.23.5 \
 timm==0.6.13 \
-torch==1.12.1 \
+torch==1.12.1
 
 ## Reference
