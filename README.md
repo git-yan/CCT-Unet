@@ -7,9 +7,9 @@ In this work, a U-shaped network based on the convolution coupled Transformer is
 ![](https://github.com/git-yan/CCT-Unet/blob/main/CCT-Unet%20framework.jpg?raw=true)
 
 ### Requirements
-einops==0.6.1
-numpy==1.23.5
-timm==0.6.13
-torch==1.12.1
+einops==0.6.1 \
+numpy==1.23.5 \
+timm==0.6.13 \
+torch==1.12.1 \
 
 ## Reference
