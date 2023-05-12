@@ -6,11 +6,20 @@ In this work, a U-shaped network based on the convolution coupled Transformer is
 
 ![](https://github.com/git-yan/CCT-Unet/blob/main/CCT-Unet%20framework.jpg?raw=true)
 
+## Pretrain model on ProstateX
+| model       | pretrain    | resolution  | #params     | FLOPs       | Pretrain model |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| CCT-Unet    | ProstateX   | 224x224     | ProstateX   | 224x224     | [model](https://pan.baidu.com/s/11JSZz1Mr4C9pYrBEYGsiEA?pwd=0000 )   |
+
+
+
 ## Requirements
 einops==0.6.1 \
 numpy==1.23.5 \
 timm==0.6.13 \
 torch==1.12.1
+
+
 
 ## Reference
 A U-shaped Network based on Convolution Coupled Transformer for Segmentation of Peripheral and Transition Zones in Prostate MRI, Yifei Yan, Rongzong Liu, Haobo Chen, Limin Zhang, Qi Zhang \
