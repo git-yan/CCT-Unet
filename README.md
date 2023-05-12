@@ -22,6 +22,6 @@ torch==1.12.1
 
 
 ## Reference
-A U-shaped Network based on Convolution Coupled Transformer for Segmentation of Peripheral and Transition Zones in Prostate MRI, Yifei Yan, Rongzong Liu, Haobo Chen, Limin Zhang, Qi Zhang \
-G. Litjens, O. Debats, J. Barentsz, et al., “Computer-aided detection of prostate cancer in MRI,” IEEE Trans. Med. Imaging, vol. 33, no. 5, pp. 1083–1092, 2014. \
-Y. Liu, K. Sung, G. Yang, et al., “Automatic Prostate Zonal Segmentation Using Fully Convolutional Network with Feature Pyramid Attention,” IEEE Access, vol. 7, pp. 163626–163632, 2019.
+●A U-shaped Network based on Convolution Coupled Transformer for Segmentation of Peripheral and Transition Zones in Prostate MRI, Yifei Yan, Rongzong Liu, Haobo Chen, Limin Zhang, Qi Zhang \
+●G. Litjens, O. Debats, J. Barentsz, et al., “Computer-aided detection of prostate cancer in MRI,” IEEE Trans. Med. Imaging, vol. 33, no. 5, pp. 1083–1092, 2014. \
+●Y. Liu, K. Sung, G. Yang, et al., “Automatic Prostate Zonal Segmentation Using Fully Convolutional Network with Feature Pyramid Attention,” IEEE Access, vol. 7, pp. 163626–163632, 2019.
