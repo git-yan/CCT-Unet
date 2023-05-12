@@ -9,7 +9,7 @@ In this work, a U-shaped network based on the convolution coupled Transformer is
 ## Pretrain model on ProstateX
 | model       | pretrain    | resolution  | #params     | FLOPs       | Pretrain model |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| CCT-Unet    | ProstateX   | 224x224     | ProstateX   | 224x224     | [model](https://pan.baidu.com/s/11JSZz1Mr4C9pYrBEYGsiEA?pwd=0000 )   |
+| CCT-Unet    | ProstateX   | 224x224     | 7.023 G   | 27.59 M     | [model](https://pan.baidu.com/s/11JSZz1Mr4C9pYrBEYGsiEA?pwd=0000 )   |
 
 
 
