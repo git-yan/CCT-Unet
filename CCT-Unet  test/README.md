@@ -16,5 +16,5 @@ Place the data to be tested in the following directory path::
 ```
 
 ## Testing  Phase
-And then, you could run  `python model_test.py` for testing your data.
+Download the pre-trained model to the CCT-Unet test directory, and you could run  `python model_test.py` for testing your data.
 
