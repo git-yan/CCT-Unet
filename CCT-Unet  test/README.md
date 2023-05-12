@@ -2,7 +2,7 @@
 
 ## Perpare Test Data
 
-Place the data to be tested in the following directory path::
+Place the data to be tested in the following directory path:
 
 ```
 /data/
